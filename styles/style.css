@@ -1,0 +1,17 @@
+body {
+    background-color: #F8E8A6;
+    padding: 30px;
+}
+h1, p {
+    text-align: center;
+}
+a {
+    color: green;
+}
+a:hover {
+    color: green;
+}
+img {
+    display: block;
+    margin: 40px auto;
+}
